@@ -9,7 +9,7 @@ public class myLibrary {
             return Base * Power(Base, Exponent - 1);
         }
     }
-    public static int factorial(int n){
+    public static int factorial (int n){
         if (n==1){
             return 1;
         } else{
